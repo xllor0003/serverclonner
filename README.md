@@ -1,11 +1,15 @@
 # Discord Server Clonner By Project By Xllor0009
 
+
+
 # İnstall Linux
 # git clone https://github.com/xllor0003/serverclonner
 # cd serverclonner
 # pip install -r requirements.txt
 # nano clonner.py  TOKEN = "your-token"
 # python clonner.py
+
+
 
 # For Termux
 # pkg upgrade
@@ -16,6 +20,8 @@
 # pip install -r requirements.txt
 # nano clonner.py Your token to save
 # python clonner.py
+
+
 
 # For Windows
 # First, download the file from the repository.
